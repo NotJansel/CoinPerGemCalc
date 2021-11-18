@@ -8,3 +8,5 @@ Previews:
 
 Instructions: When executing the File, it automatically gets the latest API Values. When then Clicking the Buttons, it calculates the Values for the specific packages in the Hypixel Store.
 Reminder: **PRICES ARE HARDCODED! I WILL CHANGE THE HARDCODED PRICES WHEN THEY CHANGE!**
+
+Platforms: Windows only!
